@@ -1,0 +1,17 @@
+1. *****done sort out pause button and stop sounds when in background. pause practice when going into background
+2. *****done look at changing picker font size dynamically using different drawable folders
+3. *****done get rid of unwanted permissions
+4. fix link to website on google play screen
+5. *****done fix link to rate app page
+6. *****done Load better first practice screen
+7. setup App and twitter accounts
+8. https://www.heroku.com/pricing or aws
+9. *****done adjust practice banner size so not over buttons
+10. *****don't use proguard. Causes intermitten crashes. 
+11. update web site google link to go to google play store
+12. *****done remove opacity from top buttons on practice screen
+13. *****done move trikonasana sktech to bigger and lower
+14. transfer website to https
+15. change neck bone size
+16.  *****done keep screen on whilst app open
+17.keep current practice on screen after shutdown
