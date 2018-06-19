@@ -15,3 +15,4 @@
 15. change neck bone size
 16.  *****done keep screen on whilst app open
 17.keep current practice on screen after shutdown
+18. Git another commit
